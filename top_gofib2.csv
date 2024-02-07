@@ -1,0 +1,6 @@
+"","Term","Ont","N","Up","Down","P.Up","P.Down"
+"GO:0030199","collagen fibril organization","BP",59,0,6,1,5.97983973483583e-08
+"GO:0030198","extracellular matrix organization","BP",306,3,10,0.277543379686184,1.15289118486297e-07
+"GO:0045229","external encapsulating structure organization","BP",307,3,10,0.279167808322325,1.18839424866959e-07
+"GO:0043062","extracellular structure organization","BP",307,3,10,0.279167808322325,1.18839424866959e-07
+"GO:0042127","regulation of cell population proliferation","BP",2304,35,15,1.37029572104338e-07,0.0131945965557077

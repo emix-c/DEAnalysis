@@ -1,0 +1,1 @@
+Performed differential expression analysis via limma on fibroblast and epidermal microarray data between two conditions: old and young mice. Created multiple visualizations: heat maps, density plots, volcano plots, histograms and glimma MD plots to support the results. Linked with KEGG and GO to obtain pathway information. Data from GSE110978 , GSE117763 , GSE137176. 
